@@ -1,0 +1,23 @@
+{
+  "voice": "en-IN-PrabhatNeural",
+  "rate": "+10%",
+  "pitch": "+0Hz",
+  "padBefore": 0.5,
+  "padAfter": 0.8,
+  "brand": "Energy Explained",
+  "scenes": [
+    { "id": "intro", "type": "title", "title": "How the Water Cycle Works", "subtitle": "From ocean to cloud to rain, step by step",
+      "text": "Where does rain come from? Let's follow a single drop of water on its journey around the planet." },
+    { "id": "evaporation", "type": "point", "title": "Evaporation", "icon": "sun",
+      "bullets": ["Sun heats oceans and lakes", "Water turns into invisible vapour", "Warm vapour rises into the sky"],
+      "text": "It starts with the sun. Its heat warms oceans and lakes, turning water into invisible vapour that rises into the sky." },
+    { "id": "condensation", "type": "point", "title": "Condensation", "icon": "cloud",
+      "bullets": ["Air cools as it rises", "Vapour condenses into tiny droplets", "Billions of droplets form a cloud"],
+      "text": "As the air climbs higher, it cools. The vapour condenses into tiny droplets, and billions of them gather to form a cloud." },
+    { "id": "precipitation", "type": "point", "title": "Precipitation", "icon": "rain",
+      "bullets": ["Droplets merge and grow heavy", "They fall as rain, snow or hail", "Rivers carry water back to the sea"],
+      "text": "When the droplets merge and grow too heavy, they fall as rain, snow or hail. Rivers then carry the water back to the sea." },
+    { "id": "outro", "type": "outro", "title": "And the cycle repeats", "cta": "Follow for more simple science",
+      "text": "Evaporation. Condensation. Precipitation. And then, the cycle begins again." }
+  ]
+}

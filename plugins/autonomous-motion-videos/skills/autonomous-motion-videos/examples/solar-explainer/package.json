@@ -1,0 +1,21 @@
+{
+  "name": "solar-explainer",
+  "private": true,
+  "scripts": {
+    "render": "remotion render src/index.ts SolarExplainer out/solar-explainer.mp4"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "@remotion/cli": "4.0.290", "@remotion/three": "4.0.290", "three": "0.170.0", "@react-three/fiber": "8.17.10",
+    "@remotion/three": "^4.0.290",
+    "@types/three": "^0.170.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.290",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

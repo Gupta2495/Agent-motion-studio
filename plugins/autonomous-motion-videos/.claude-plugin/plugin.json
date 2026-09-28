@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-motion-videos",
+  "displayName": "Autonomous Motion Videos",
+  "version": "1.0.0",
+  "description": "Narrated explainer videos of any length rendered from code (Remotion, React, SVG, optional Three.js and AI images) with free Microsoft TTS, word-synced captions and animations.",
+  "author": { "name": "Nikhilesh Gupta", "url": "https://github.com/Gupta2495" },
+  "homepage": "https://github.com/Gupta2495/Agent-motion-studio",
+  "repository": "https://github.com/Gupta2495/Agent-motion-studio",
+  "license": "MIT",
+  "keywords": ["video", "remotion", "explainer", "motion-graphics", "tts", "captions", "3d", "reels"]
+}

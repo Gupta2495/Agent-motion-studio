@@ -1,0 +1,11 @@
+{
+  "name": "edge-tts-voiceover",
+  "displayName": "Edge TTS Voice-over",
+  "version": "1.0.0",
+  "description": "Free voice-overs with Microsoft neural voices (edge-tts): voice profile, speed, pitch, delivery tags, pauses, SRT subtitles and word timings.",
+  "author": { "name": "Nikhilesh Gupta", "url": "https://github.com/Gupta2495" },
+  "homepage": "https://github.com/Gupta2495/Agent-motion-studio",
+  "repository": "https://github.com/Gupta2495/Agent-motion-studio",
+  "license": "MIT",
+  "keywords": ["tts", "voiceover", "edge-tts", "text-to-speech", "indian-voices", "narration", "subtitles"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "agent-motion-studio",
+  "description": "Free AI voice-overs and narrated explainer videos rendered from code - Microsoft neural TTS + Remotion.",
+  "owner": { "name": "Nikhilesh Gupta", "url": "https://github.com/Gupta2495" },
+  "plugins": [
+    {
+      "name": "edge-tts-voiceover",
+      "source": "./plugins/edge-tts-voiceover",
+      "description": "Free voice-overs with Microsoft neural voices: pick voice profile (21 Indian voices, 320+ total), speed, pitch; delivery tags, pauses, SRT and word timings."
+    },
+    {
+      "name": "autonomous-motion-videos",
+      "source": "./plugins/autonomous-motion-videos",
+      "description": "Narrated explainer videos of any length rendered from code (Remotion/React/SVG, optional 3D and AI images), captions and animations synced to the spoken word."
+    }
+  ]
+}

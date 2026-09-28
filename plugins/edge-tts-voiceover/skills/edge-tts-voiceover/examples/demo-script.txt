@@ -1,0 +1,5 @@
+[calm] Welcome back to the channel. [pause 0.8s]
+[excited] Today we're building something amazing! [laugh]
+[nervous] Um, I... I hope the demo works this time. [sigh]
+[sad] Last time, it crashed right in front of everyone. [pause 1s]
+[serious] But we fixed the bug. [normal] So let's get started.
